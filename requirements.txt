@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+gitpython
+faiss-cpu
+sentence-transformers
+requests
+python-git
+transformers
+torch
+langchain-community
